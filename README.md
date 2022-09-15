@@ -13,7 +13,7 @@
 
 #Hosts 
 
-76.223.126.88	https://onedrive-vercel-index-eosin-six.vercel.app/zh-CN/
+76.223.126.88	onedrive-vercel-index-eosin-six.vercel.app/zh-CN/
 
 ## TL;DR
 
