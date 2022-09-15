@@ -13,7 +13,7 @@
 
 #Hosts 
 
-76.223.126.88	onedrive-vercel-index-eosin-six.vercel.app	
+76.223.126.88	*.vercel.app	
 
 ## TL;DR
 
